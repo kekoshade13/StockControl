@@ -1,0 +1,5 @@
+Los numeros que estan en la casilla "isFinished" tienen los siguientes significados:
+0 - En proceso.
+1 - Orden Finalizada.
+2 - Orden Pendiente por falta de repuesto.
+3 - Orden enviada a destrucción total.
